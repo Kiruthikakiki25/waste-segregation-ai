@@ -1,0 +1,100 @@
+{
+  "recyclers": [
+    {
+      "id": 1,
+      "name": "Raju Kabadiwala",
+      "area": "Anna Nagar",
+      "city": "Chennai",
+      "pincode": "600040",
+      "accepts": ["plastic", "paper", "cardboard", "metal"],
+      "price_per_kg": {"plastic": 12, "paper": 8, "cardboard": 6, "metal": 25},
+      "contact": "9876543210",
+      "verified": true
+    },
+    {
+      "id": 2,
+      "name": "Green Collect - Trichy",
+      "area": "Thillai Nagar",
+      "city": "Trichy",
+      "pincode": "620018",
+      "accepts": ["plastic", "paper", "metal", "ewaste"],
+      "price_per_kg": {"plastic": 10, "paper": 7, "metal": 22, "ewaste": 50},
+      "contact": "9865432100",
+      "verified": true
+    },
+    {
+      "id": 3,
+      "name": "EcoWaste Collectors",
+      "area": "T Nagar",
+      "city": "Chennai",
+      "pincode": "600017",
+      "accepts": ["ewaste", "metal", "plastic"],
+      "price_per_kg": {"ewaste": 60, "metal": 28, "plastic": 11},
+      "contact": "9845671230",
+      "verified": true
+    },
+    {
+      "id": 4,
+      "name": "Murugan Scrap",
+      "area": "RS Puram",
+      "city": "Coimbatore",
+      "pincode": "641002",
+      "accepts": ["metal", "paper", "cardboard", "glass"],
+      "price_per_kg": {"metal": 30, "paper": 9, "cardboard": 7, "glass": 4},
+      "contact": "9756432890",
+      "verified": true
+    },
+    {
+      "id": 5,
+      "name": "Selvam Recyclers",
+      "area": "Madurai Central",
+      "city": "Madurai",
+      "pincode": "625001",
+      "accepts": ["plastic", "paper", "ewaste", "metal"],
+      "price_per_kg": {"plastic": 11, "paper": 8, "ewaste": 55, "metal": 24},
+      "contact": "9734561230",
+      "verified": true
+    },
+    {
+      "id": 6,
+      "name": "Hari E-Waste Hub",
+      "area": "Gandhipuram",
+      "city": "Coimbatore",
+      "pincode": "641012",
+      "accepts": ["ewaste"],
+      "price_per_kg": {"ewaste": 65},
+      "contact": "9712345670",
+      "verified": true
+    },
+    {
+      "id": 7,
+      "name": "Chennai Scrap Mart",
+      "area": "Velachery",
+      "city": "Chennai",
+      "pincode": "600042",
+      "accepts": ["plastic", "paper", "metal", "cardboard", "glass"],
+      "price_per_kg": {"plastic": 13, "paper": 9, "metal": 27, "cardboard": 7, "glass": 5},
+      "contact": "9698765430",
+      "verified": true
+    },
+    {
+      "id": 8,
+      "name": "Trichy Green Hub",
+      "area": "Srirangam",
+      "city": "Trichy",
+      "pincode": "620006",
+      "accepts": ["paper", "cardboard", "plastic", "glass"],
+      "price_per_kg": {"paper": 8, "cardboard": 6, "plastic": 10, "glass": 4},
+      "contact": "9654321870",
+      "verified": true
+    }
+  ],
+  "sample_rates": {
+    "plastic": 11,
+    "paper": 8,
+    "cardboard": 6,
+    "metal": 25,
+    "ewaste": 55,
+    "glass": 4
+  }
+}
